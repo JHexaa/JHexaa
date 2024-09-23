@@ -16,16 +16,7 @@
   <img src="https://img.shields.io/static/v1?message=hexaa&logo=discord&label=&color=242323&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
-###
-
-<br clear="both">
-
 <h4 align="left">This are the technologies I've learned</h4>
-
-###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -45,5 +36,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
+###
+
+<br clear="both">
+
+
+
+###
+
+<br clear="both">
+
+
 
 ###
