@@ -7,15 +7,6 @@
 <img align="left" height="150" src="https://github.com/JHexaa.png"  />
 
 ###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=jdev.zhou@gmail.com&logo=gmail&label=&color=242323&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/juanzhou26/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=juanzhou26&logo=linkedin&label=&color=242323&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=hexaa&logo=discord&label=&color=242323&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
 <h4 align="left">This are the technologies I've learned</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -36,5 +27,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
-###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=jdev.zhou@gmail.com&logo=gmail&label=&color=242323&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/juanzhou26/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=juanzhou26&logo=linkedin&label=&color=242323&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=hexaa&logo=discord&label=&color=242323&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
 
