@@ -8,7 +8,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=jdev.zhou@gmail.com&logo=gmail&label=&color=242323&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/juanzhou26/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=juanzhou26&logo=linkedin&label=&color=242323&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
