@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
-<h3 align="left">CONTACT</h3>
+<h5 align="left">CONTACT</h5>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=jdev.zhou@gmail.com&logo=gmail&label=&color=242323&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/juanzhou26/" target="_blank">
