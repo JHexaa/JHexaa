@@ -4,7 +4,7 @@
 
 ###
 
-<img align="left" height="124" src="https://github.com/JHexaa.png"  />
+<img align="left" height="150" src="https://github.com/JHexaa.png"  />
 
 ###
 
